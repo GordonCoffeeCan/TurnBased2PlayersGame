@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 4ba4d137b30b6bf4ca886d196a2c72a0
+timeCreated: 1493756546
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie_body
+    21300002: ZombieParts_spritesheet_1
+    21300004: Zombie_head
+    21300006: Zombie_hip
+    21300008: ZombieParts_spritesheet_4
+    21300010: Zombie_leftArm
+    21300012: Zombie_rightLeg
+    21300014: Zombie_leftLeg
+    21300016: Zombie_leftLegInWalk
+    21300018: Zombie_rightArm
+    21300020: Zombie_rightLegInWalk
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_body
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 89
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5033202, y: 0.088656954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_head
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5853985, y: 0.09008636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_hip
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 113
+        width: 19
+        height: 12
+      alignment: 9
+      pivot: {x: 0.50937974, y: 0.8267428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_leftArm
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 31
+        height: 14
+      alignment: 9
+      pivot: {x: 0.13205497, y: 0.6782237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_rightLeg
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 14
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4660875, y: 0.92729825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_leftLeg
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.21263604, y: 0.8956464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_leftLegInWalk
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.21513443, y: 0.8942334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_rightArm
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 41
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2140555, y: 0.88151604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_rightLegInWalk
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5370456, y: 0.90110373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

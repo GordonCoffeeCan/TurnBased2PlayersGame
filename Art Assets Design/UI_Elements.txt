@@ -1,0 +1,60 @@
+{"frames": {
+
+"UI_BloodBar.png":
+{
+	"frame": {"x":2,"y":2,"w":483,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":483,"h":230},
+	"sourceSize": {"w":483,"h":230}
+},
+"UI_Human_head.png":
+{
+	"frame": {"x":2,"y":240,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"UI_Skull.png":
+{
+	"frame": {"x":138,"y":240,"w":81,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":87},
+	"sourceSize": {"w":81,"h":87}
+},
+"UI_Stone.png":
+{
+	"frame": {"x":227,"y":240,"w":90,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":79},
+	"sourceSize": {"w":90,"h":79}
+},
+"UI_VS.png":
+{
+	"frame": {"x":325,"y":240,"w":126,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":103},
+	"sourceSize": {"w":126,"h":103}
+},
+"UI_Zombie_head.png":
+{
+	"frame": {"x":2,"y":376,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "UI_Elements.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3a4c097cc42cf2f6cca35e53660c1152:1/1$"
+}
+}

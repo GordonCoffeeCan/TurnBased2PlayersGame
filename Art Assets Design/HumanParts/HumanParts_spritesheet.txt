@@ -1,0 +1,68 @@
+{"frames": {
+
+"Human_LeftArm.png":
+{
+	"frame": {"x":1,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24}
+},
+"Human_LeftLeg.png":
+{
+	"frame": {"x":1,"y":43,"w":19,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":34},
+	"sourceSize": {"w":19,"h":34}
+},
+"Human_body.png":
+{
+	"frame": {"x":28,"y":43,"w":33,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":41},
+	"sourceSize": {"w":33,"h":41}
+},
+"Human_head.png":
+{
+	"frame": {"x":69,"y":43,"w":49,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":52},
+	"sourceSize": {"w":49,"h":52}
+},
+"Human_inWalk.png":
+{
+	"frame": {"x":73,"y":1,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":34},
+	"sourceSize": {"w":20,"h":34}
+},
+"Human_rightArm.png":
+{
+	"frame": {"x":39,"y":1,"w":26,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":27},
+	"sourceSize": {"w":26,"h":27}
+},
+"Human_rightLeg.png":
+{
+	"frame": {"x":101,"y":1,"w":19,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":34},
+	"sourceSize": {"w":19,"h":34}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "HumanParts_spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:004ff7ea59d84b1ea2c43fd2de0b5478:1/1$"
+}
+}
