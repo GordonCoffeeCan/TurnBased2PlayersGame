@@ -16,16 +16,16 @@ public class LevelLoader2D : MonoBehaviour {
     public static GameObject playerHuman;
     public static GameObject playerZombie;
 
-    public static float _offSetX;
-    public static float _offSetY;
+    public static float offSetX;
+    public static float offSetY;
 
 	// Use this for initialization
 	void Start () {
         _levelHolder = new GameObject("Level Holder");
         _filePath = Application.dataPath + "/" + _fileName;
         _streamReader = new StreamReader(_filePath);
-        _offSetX = 0;
-        _offSetY = 0;
+        offSetX = 0;
+        offSetY = 0;
         SetLevel();
     }
 	
@@ -57,16 +57,16 @@ public class LevelLoader2D : MonoBehaviour {
                 }
 
                 if (_lineNumber == 0) {
-                    _offSetX += _posScale;
+                    offSetX += _posScale;
                 }
             }
-            _offSetY += _posScale;
+            offSetY += _posScale;
             _posY--;
             _lineNumber++;
         }
         _streamReader.Close();
 
-        _levelHolder.transform.position = new Vector3(-_offSetX / 2 + _posScale / 2, _offSetY / 2 - _posScale / 2, 0);
+        _levelHolder.transform.position = new Vector3(-offSetX / 2 + _posScale / 2, offSetY / 2 - _posScale / 2, 0);
         playerHuman.transform.parent = null;
         playerZombie.transform.parent = null;
 
